@@ -1,2 +1,2 @@
-# PJ
-a simple tic tac toe game created using python
+A Simple TIC-TAC-TOE Game Created Using Python
+
